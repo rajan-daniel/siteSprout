@@ -100,6 +100,7 @@ siteSprout can be used as a foundation for:
 - Personal Portfolios
 - Startup MVPs
 - Modern React web apps
+- Storefront front-end spin-up
 
 ---
 
